@@ -1,6 +1,6 @@
 ### RUBIKS CUBE GAME
 
-![](.\images/drawing.png)
+![](./images/drawing.png)
 
 A Rubik's cube game based in a console environment. Entirely written in C++.
 
