@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556003555 source:c:\users\natty\documents\code blocks\rubik's cube\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	<graphics.h>
+
